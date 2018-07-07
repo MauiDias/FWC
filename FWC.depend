@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1530647284 source:c:\users\paulo\desktop\fwc\fwc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1530662390 source:d:\fwc\fwc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1530841978 source:g:\fwc\fwc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+
+1530909407 source:d:\desktop\fwc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
